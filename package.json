@@ -1,0 +1,43 @@
+{
+  "name": "bhuvneshsb",
+  "version": "3.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [
+    "Discord Selfbot",
+    "Bhuvnesh Selfbot"
+  ],
+  "author": "Bhuvnesh",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ItsBhuvnesh/SB.v3"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "babel-polyfill": "^6.26.0",
+    "colors": "^1.4.0",
+    "djs-selfbot": "^13.6.0",
+    "dotenv": "^10.0.0",
+    "node-fetch": "^3.2.0",
+    "node-threading": "^1.0.4",
+    "pretty-ms": "^7.0.1",
+    "request": "^2.88.2",
+    "socks-proxy-agent": "^6.1.1",
+    "tesseract.js": "^2.1.1",
+    "threadpool": "^0.9.5",
+    "translate-api": "^0.3.18",
+    "undici": "^4.14.1"
+  },
+  "engines": {
+    "node": "^16.13.1"
+  },
+  "devDependencies": {
+    "node": "^16.13.1"
+  },
+  "description": "Discord Selfbot Made by Bhuvnesh#1337"
+}
